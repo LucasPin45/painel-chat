@@ -5,7 +5,7 @@ from unidecode import unidecode
 # CONFIG DO APP
 st.set_page_config(page_title="Painel de Lideranças", layout="wide")
 st.image("https://www.consilliumrig.com.br/wp-content/uploads/2022/07/02_Logotipo_Consillium-1024x218.png", width=300)
-st.title("📂 Lista dos líderes com Filtros")
+st.title("📂 Líderes Câmara dos Deputados")
 
 
 
